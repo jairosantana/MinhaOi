@@ -1,0 +1,89 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s386e5193b934f6f8d6fddc8d22d5cf2",
+    "_text_": "Consulta de Trafico",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "Label08abfd434d4644a",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPadLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "7bc7dda4b4af4c0cbc3fbf2e52ad4ce3",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "FlexContainer04159462b26b54a",
+    "pf": "frmSelectPlan",
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAAndroidTabletLabelProperty",
+        "_padding_": [
+            0,
+            5,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            5,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAIPadLabelProperty",
+        "_padding_": [
+            0,
+            4,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            4,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

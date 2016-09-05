@@ -1,0 +1,102 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "CopylblGreySmall0f68e042f068440",
+    "_text_": "Olvide mi clave",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "annotationId": "f7ae11d26c284ef8b5119b42298e6147",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 6,
+    "contentalignment": 6,
+    "enabled": false,
+    "height": {
+        "type": "string",
+        "value": "100%"
+    },
+    "id": "CopyLabel0190ff35287be40",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "f7ae11d26c284ef8b5119b42298e6147",
+    "left": {
+        "type": "string",
+        "value": "50%"
+    },
+    "margin": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "name": "kony.ui.Label",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "FlexContainer0ffa8f90d662240",
+    "pf": "frmLogin",
+    "platforms": {
+        "android": {
+            "@class": "com.kony.gen.viz.model.component.property.label.AndroidLabelProperty"
+        },
+        "ipad": {
+            "@class": "com.kony.gen.viz.model.component.property.label.IPadLabelProperty",
+            "psp": {
+                "@class": "com.kony.gen.viz.model.component.psp.label.IPadLabelPSP",
+                "wrapping": 2
+            }
+        }
+    },
+    "render": true,
+    "skin": "CopylblGreySmall0f68e042f068440",
+    "text": "Olvide mi clave",
+    "toolTip": "",
+    "tooltip": "",
+    "top": {
+        "type": "string",
+        "value": "0%"
+    },
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "width": {
+        "type": "string",
+        "value": "50%"
+    },
+    "wrapping": 2
+}

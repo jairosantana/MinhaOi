@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_70923ee7a5f5498fb7c04728b405260f": {
+        "id": "AS_FlexContainer_70923ee7a5f5498fb7c04728b405260f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchEnd_609e173cad224473aeb35b17368641e4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onClickShared()"
+        }]
+    }
+}

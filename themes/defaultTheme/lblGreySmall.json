@@ -1,0 +1,70 @@
+{
+    "android": {
+        "font_name": "Default",
+        "wType": "Label"
+    },
+    "background_color": "00000000",
+    "bg_type": "one",
+    "border_color": "424242ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "font_color": "53534fff",
+    "font_name": "",
+    "font_size": 90,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "ipad": {
+        "font_name": "AmericanTypewriter",
+        "wType": "Label"
+    },
+    "iphone": {
+        "font_name": "Helvetica",
+        "wType": "Label"
+    },
+    "isDefaultSkin": false,
+    "kuid": "s75c4266b7d74793928239d4a52bfe78",
+    "spaan": {
+        "font_name": "Helvetica",
+        "wType": "Label"
+    },
+    "spaandroidtablet": {
+        "font_name": "Andale Mono",
+        "wType": "Label"
+    },
+    "spabb": {
+        "font_name": "Andale Mono",
+        "wType": "Label"
+    },
+    "spaip": {
+        "font_name": "Helvetica",
+        "font_size": 100,
+        "isForked": true,
+        "wType": "Label"
+    },
+    "spaipad": {
+        "font_name": "Andale Mono",
+        "wType": "Label"
+    },
+    "spawindowstablet": {
+        "font_name": "Andale Mono",
+        "wType": "Label"
+    },
+    "spawinphone8": {
+        "font_name": "Helvetica",
+        "wType": "Label"
+    },
+    "tabrcandroid": {
+        "font_name": "Default",
+        "wType": "Label"
+    },
+    "wType": "Label",
+    "windows8": {
+        "font_name": "GenericMonospace",
+        "wType": "Label"
+    },
+    "winphone8": {
+        "font_name": "GenericMonospace",
+        "wType": "Label"
+    }
+}

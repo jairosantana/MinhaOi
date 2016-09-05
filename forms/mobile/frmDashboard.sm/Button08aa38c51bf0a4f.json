@@ -1,0 +1,51 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc95aa34998842c1ad08bd798869362f",
+    "_text_": "UPGRADE DO PLANO",
+    "_top_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "scff36e84afd4931af39b4bea458b152",
+    "id": "Button08aa38c51bf0a4f",
+    "ide_onClick": "AS_Button_8c257080aeed4fa2a856af153fdbfd72",
+    "info": null,
+    "isvisible": true,
+    "kuid": "41e0d7d95a8241efb62e3ef3447e2b7d",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_8c257080aeed4fa2a856af153fdbfd72",
+    "parent": "flexMain",
+    "pf": "frmDashboard",
+    "wType": "Button",
+    "zindex": 1
+}

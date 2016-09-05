@@ -1,0 +1,37 @@
+{
+    "AS_FlexContainer_972ccc5606954bd984fa3d5c156f064a": {
+        "id": "AS_FlexContainer_972ccc5606954bd984fa3d5c156f064a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___6161142bfdd244d492cf3f91b04c8154",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menuSelectPlan",
+            "display": "menuSelectPlan",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "NAVIGATE_TO_FORM___f7d47603c71949d49b768e9b41c3893d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashboard",
+            "formKUID": "bff7a68618b84f2fb2e0c9c093be985d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

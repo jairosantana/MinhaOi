@@ -1,0 +1,12 @@
+{
+    "AS_Button_03708c04066c47d7b16b576c294ba80a": {
+        "id": "AS_Button_03708c04066c47d7b16b576c294ba80a",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_e5b56652d4a84310990ca1747be01c29",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getMyPlan();"
+        }]
+    }
+}

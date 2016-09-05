@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "24%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s22eb498ccfd4f2aae67a64ec1691772",
+    "_top_": {
+        "type": "string",
+        "value": "9%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Image0409268cd622341"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "FlexContainer0eaa9495e174240",
+    "ide_onTouchEnd": "AS_FlexContainer_82a6563683824f728edde341c66f6245",
+    "ide_onTouchMove": "AS_FlexContainer_b690e8ee436848e99f8a141bb7dd93be",
+    "ide_onTouchStart": "AS_FlexContainer_1f4762f4bab2449b889aff47adc4b92a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a1404fce27e84b6b874ea3f4cee9bd9d",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "ontouchend": "AS_FlexContainer_82a6563683824f728edde341c66f6245",
+    "ontouchmove": "AS_FlexContainer_b690e8ee436848e99f8a141bb7dd93be",
+    "ontouchstart": "AS_FlexContainer_1f4762f4bab2449b889aff47adc4b92a",
+    "orientation": 6,
+    "parent": "flexMain",
+    "percent": true,
+    "pf": "frmSelectPlan",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

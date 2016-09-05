@@ -1,0 +1,146 @@
+{
+    "AS_Button_d3a2e068704d42bbaac861fd00fd81e0": {
+        "id": "AS_Button_d3a2e068704d42bbaac861fd00fd81e0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTeste",
+            "type": "forms",
+            "platform": null,
+            "KUID": "7efdaf5620414b8fb50eb4f6c19f2a7c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_ASYNC_SERVICE__cafa777790ce47cb9a52e063f691795e",
+            "type": "INVOKE_ASYNC_SERVICE",
+            "inputparams": null,
+            "httpheaders": null,
+            "httpconfigs": null,
+            "isasynchronous": true,
+            "mappings": {},
+            "mappingsOrder": [],
+            "serviceconfig": {
+                "servicename": "User",
+                "type": "integration",
+                "operationname": "getRecords"
+            },
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_MAPPING__57672994dd0d4d53894996ed84328b6b",
+            "type": "ADD_MAPPING",
+            "mappings": {
+                "ME_Mapping_500128b871ab4f518a62399aff43aecd": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_500128b871ab4f518a62399aff43aecd",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "source": {
+                        "type": "Services",
+                        "propertyName": "records",
+                        "dataType": "collection",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "User",
+                            "type": "integration",
+                            "operationname": "getRecords"
+                        }
+                    },
+                    "target": {
+                        "type": "Forms",
+                        "propertyName": "masterdata",
+                        "widgetId": "segLista",
+                        "widgetType": "Segment",
+                        "dataType": "collection",
+                        "itemId": "frmTeste2",
+                        "widgetKUID": "4e2f1dec62ee410fa496f27f9519fd5c",
+                        "itemKUID": "04e25c0ce79a4bfcb72e68d9917414ba",
+                        "forkedPlatform": "all"
+                    }
+                },
+                "ME_Mapping_89430c44e7c0414caadf79e399ea6002": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_89430c44e7c0414caadf79e399ea6002",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "source": {
+                        "type": "Services",
+                        "propertyName": "id",
+                        "dataType": "string",
+                        "collectionId": "records",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "User",
+                            "type": "integration",
+                            "operationname": "getRecords"
+                        }
+                    },
+                    "target": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "label1",
+                        "widgetType": "Label",
+                        "dataType": "string",
+                        "itemId": "frmTeste2",
+                        "parentMappingId": "ME_Mapping_500128b871ab4f518a62399aff43aecd",
+                        "segmentId": "segLista",
+                        "segmentKUID": "4e2f1dec62ee410fa496f27f9519fd5c",
+                        "widgetKUID": "44af4f9c9c66435688fe9f0c0705fcff",
+                        "itemKUID": "04e25c0ce79a4bfcb72e68d9917414ba",
+                        "forkedPlatform": "all"
+                    }
+                },
+                "ME_Mapping_cc4d65a9d1184b3e8f0c24640121267e": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_cc4d65a9d1184b3e8f0c24640121267e",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "source": {
+                        "type": "Services",
+                        "propertyName": "name",
+                        "dataType": "string",
+                        "collectionId": "records",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "User",
+                            "type": "integration",
+                            "operationname": "getRecords"
+                        }
+                    },
+                    "target": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "label2",
+                        "widgetType": "Label",
+                        "dataType": "string",
+                        "itemId": "frmTeste2",
+                        "parentMappingId": "ME_Mapping_500128b871ab4f518a62399aff43aecd",
+                        "segmentId": "segLista",
+                        "segmentKUID": "4e2f1dec62ee410fa496f27f9519fd5c",
+                        "widgetKUID": "06cbce71f4c34170b220fe1306c26fd2",
+                        "itemKUID": "04e25c0ce79a4bfcb72e68d9917414ba",
+                        "forkedPlatform": "all"
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_500128b871ab4f518a62399aff43aecd", "ME_Mapping_89430c44e7c0414caadf79e399ea6002", "ME_Mapping_cc4d65a9d1184b3e8f0c24640121267e"],
+            "parentId": "INVOKE_ASYNC_SERVICE__cafa777790ce47cb9a52e063f691795e",
+            "callbackType": "Callback",
+            "enableMappingEditor": true
+        }, {
+            "id": "NAVIGATE_TO_FORM___dce6cb0f4c094633b91944e9c01ccba0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTeste2",
+            "formKUID": "04e25c0ce79a4bfcb72e68d9917414ba",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "INVOKE_ASYNC_SERVICE__cafa777790ce47cb9a52e063f691795e",
+            "callbackType": "Callback",
+            "enableMappingEditor": true
+        }]
+    }
+}

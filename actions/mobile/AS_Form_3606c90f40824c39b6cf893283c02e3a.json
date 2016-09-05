@@ -1,0 +1,12 @@
+{
+    "AS_Form_3606c90f40824c39b6cf893283c02e3a": {
+        "id": "AS_Form_3606c90f40824c39b6cf893283c02e3a",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onDeviceBack_2fc314f75dad44be915d98c321ddec0d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onDeviceBackAndroid();"
+        }]
+    }
+}

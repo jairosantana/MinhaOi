@@ -1,0 +1,17 @@
+{
+    "AS_Label_2767bbebeceb46298e288fc132ac7be1": {
+        "id": "AS_Label_2767bbebeceb46298e288fc132ac7be1",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onTouchEnd_8dcdb20ae06041ad8d105fcb762b6f9e",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "formKUID": "da7a7ea66cea42aa976fdddd0bc32bbe",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

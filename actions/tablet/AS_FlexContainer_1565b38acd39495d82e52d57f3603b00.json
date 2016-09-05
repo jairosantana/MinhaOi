@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_1565b38acd39495d82e52d57f3603b00": {
+        "id": "AS_FlexContainer_1565b38acd39495d82e52d57f3603b00",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchEnd_86b11298432a4fcbb33df3e8505fb9d2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLogin.txtRUT.text = \"\"\nfrmLogin.txtPassword.text = \"\"\nfrmLogin.txtPhone.text = \"\"\nfrmLogin.show()"
+        }]
+    }
+}

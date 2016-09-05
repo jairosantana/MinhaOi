@@ -1,0 +1,97 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "CopylblGreySmall09c0ae2a913e74f",
+    "_text_": "Registrar me en Mi Ental",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "annotationId": "0fae5cddaadc4e7e8d6155b6df12b374",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 4,
+    "contentalignment": 4,
+    "enabled": false,
+    "height": {
+        "type": "string",
+        "value": "100%"
+    },
+    "id": "Label03f1607debf0145",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "0fae5cddaadc4e7e8d6155b6df12b374",
+    "left": {
+        "type": "string",
+        "value": "0%"
+    },
+    "margin": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "name": "kony.ui.Label",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "FlexContainer0ffa8f90d662240",
+    "pf": "frmLogin",
+    "platforms": {
+        "ipad": {
+            "@class": "com.kony.gen.viz.model.component.property.label.IPadLabelProperty",
+            "psp": {
+                "@class": "com.kony.gen.viz.model.component.psp.label.IPadLabelPSP",
+                "wrapping": 2
+            }
+        }
+    },
+    "render": true,
+    "skin": "CopylblGreySmall09c0ae2a913e74f",
+    "text": "Registrar me en Mi Ental",
+    "toolTip": "",
+    "tooltip": "",
+    "top": {
+        "type": "string",
+        "value": "0%"
+    },
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "width": {
+        "type": "string",
+        "value": "50%"
+    },
+    "wrapping": 2
+}

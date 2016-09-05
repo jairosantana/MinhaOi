@@ -1,0 +1,78 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "16%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        2
+    ],
+    "_placeholder_": "Telefono",
+    "_skin_": "sf34b5e18a9f434496069acb3ecdd133",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "24%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.AndroidTextBox2Property",
+        "contentAlignment": 4
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 7,
+    "enabled": false,
+    "focusskin": "s0198696aa2b4bf98ddc85dcedb26be5",
+    "id": "txtPhone",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.IPadTextBox2Property",
+        "placeholderSkin": "s3371767bdba4dd5a863ae11bf70889c",
+        "psp": {
+            "keyboardActionLabel": 4,
+            "showClearButton": false
+        }
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 4,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "d259b9ca21ee4302b5066d8b8632ba31",
+    "maxtextlength": 8,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "FlexContainer0ec01104a62ff45",
+    "pf": "frmLogin",
+    "placeholderskin": "s3371767bdba4dd5a863ae11bf70889c",
+    "securetextentry": false,
+    "showclearbutton": false,
+    "textinputmode": "N",
+    "viewtype": "default",
+    "wType": "TextField"
+}

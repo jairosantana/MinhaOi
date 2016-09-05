@@ -1,0 +1,94 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "see6ee99ebf346caa00023c1b6428966",
+    "_text_": "Consumo",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "lblHEader",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPhoneLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "318df7dedcbc4cdda4f48dd53a5310d8",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "FlexContainerHeader",
+    "pf": "frmDashboard",
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAAndroidLabelProperty",
+        "_padding_": [
+            0,
+            5,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            5,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAIPhoneLabelProperty",
+        "_padding_": [
+            0,
+            5,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            5,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

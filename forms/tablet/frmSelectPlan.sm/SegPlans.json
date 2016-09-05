@@ -1,0 +1,232 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "btnSelect": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Solicitar"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% dscto.x 12 meses "
+            },
+            "lblDiscPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$23.391"
+            },
+            "lblOriginalPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$25.990"
+            },
+            "lblPlanDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "CARGO FIJO MENSUAL"
+            },
+            "lblPlanName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.5 GB 350 MIN"
+            },
+            "lblPromo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Promocion Internet"
+            }
+        },
+        {
+            "btnSelect": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Solicitar"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% dscto.x 12 meses "
+            },
+            "lblDiscPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$23.391"
+            },
+            "lblOriginalPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$25.990"
+            },
+            "lblPlanDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "CARGO FIJO MENSUAL"
+            },
+            "lblPlanName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.5 GB 350 MIN"
+            },
+            "lblPromo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Promocion Internet"
+            }
+        },
+        {
+            "btnSelect": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Solicitar"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% dscto.x 12 meses "
+            },
+            "lblDiscPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$23.391"
+            },
+            "lblOriginalPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$25.990"
+            },
+            "lblPlanDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "CARGO FIJO MENSUAL"
+            },
+            "lblPlanName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.5 GB 350 MIN"
+            },
+            "lblPromo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Promocion Internet"
+            }
+        },
+        {
+            "btnSelect": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Solicitar"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% dscto.x 12 meses "
+            },
+            "lblDiscPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$23.391"
+            },
+            "lblOriginalPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$25.990"
+            },
+            "lblPlanDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "CARGO FIJO MENSUAL"
+            },
+            "lblPlanName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.5 GB 350 MIN"
+            },
+            "lblPromo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Promocion Internet"
+            }
+        }
+    ],
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "94.59%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seg2Normal",
+    "_top_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "alternaterowskin": "sfaee5e9cb244a4c9253b66e709cb6c0",
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgetsSegements",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 3,
+    "disabledSkins": {
+        "rowFocusSkin": "s4dc26b7b08f4032867f4aa340a878c1"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "60122442707c4de4aa067eee44eb70ce",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegPlans",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.IPadSegment2Property",
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "f3a3dc1177df46f9b9957e20c0127a45",
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexScrollContainer088778dd0de3945",
+    "pf": "frmSelectPlan",
+    "retainselection": false,
+    "rowTemplateId": "60122442707c4de4aa067eee44eb70ce",
+    "rowcounter": 2,
+    "rowfocusskin": "s4044e0ee5484e16a5bea2ca18270ef6",
+    "rowskin": "s28dc59df1004928a11c70d67ccc306c",
+    "rowtemplate": "CopyFBox0c3a2f1512b4b40",
+    "screenlevelwidget": false,
+    "scrollingevents": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s538373a974d43a2affd5f921c195a79",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "dbd8d300",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer03c55cfa0772841": "CopyFlexContainer03c55cfa0772841",
+        "FlexContainer0def6dbdcad0048": "FlexContainer0def6dbdcad0048",
+        "FlexContainerPlan": "FlexContainerPlan",
+        "btnSelect": "btnSelect",
+        "lblDesc": "lblDesc",
+        "lblDiscPrice": "lblDiscPrice",
+        "lblOriginalPrice": "lblOriginalPrice",
+        "lblPlanDesc": "lblPlanDesc",
+        "lblPlanName": "lblPlanName",
+        "lblPromo": "lblPromo"
+    }
+}

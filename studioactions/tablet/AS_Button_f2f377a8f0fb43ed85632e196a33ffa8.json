@@ -1,0 +1,16 @@
+{
+    "AS_Button_f2f377a8f0fb43ed85632e196a33ffa8": {
+        "id": "AS_Button_f2f377a8f0fb43ed85632e196a33ffa8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_c64b6a7fd4de4b5eb5acea7573fe61a6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getMyPlan()"
+        }]
+    }
+}

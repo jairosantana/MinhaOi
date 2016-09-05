@@ -1,0 +1,53 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "31.25%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2.6399999999999997%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8817d33c2f345ea97775282f08819d8",
+    "_text_": "INGRESAR",
+    "_top_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95.36%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s2021059cb564b1e88ada0dada1e57f7",
+    "id": "btnSelect",
+    "ide_onClick": "AS_Button_55f74b24cfb942019fb8eeb957939499",
+    "info": null,
+    "isSegmentChild": true,
+    "isvisible": true,
+    "kuid": "39cc445c3d104bb9bc5912d14a67f6a2",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_55f74b24cfb942019fb8eeb957939499",
+    "parent": "CopyFlexContainer03c55cfa0772841",
+    "pf": "FBox0e982cb9b0aa349",
+    "wType": "Button",
+    "zindex": 1
+}

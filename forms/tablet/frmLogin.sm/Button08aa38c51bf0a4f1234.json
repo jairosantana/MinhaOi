@@ -1,0 +1,51 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "14%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3.86%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc95aa34998842c1ad08bd798869362f",
+    "_text_": "INGRESAR",
+    "_top_": {
+        "type": "string",
+        "value": "72.83%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "93.05%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "scff36e84afd4931af39b4bea458b152",
+    "id": "Button08aa38c51bf0a4f1234",
+    "ide_onClick": "AS_Button_f2f377a8f0fb43ed85632e196a33ffa8",
+    "info": null,
+    "isvisible": true,
+    "kuid": "93ad62646aab43169dcf63c6211e8478",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_f2f377a8f0fb43ed85632e196a33ffa8",
+    "parent": "FlexContainer03a17fd1a843546",
+    "pf": "frmLogin",
+    "wType": "Button",
+    "zindex": 1
+}

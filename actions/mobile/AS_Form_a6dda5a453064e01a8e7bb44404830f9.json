@@ -1,0 +1,12 @@
+{
+    "AS_Form_a6dda5a453064e01a8e7bb44404830f9": {
+        "id": "AS_Form_a6dda5a453064e01a8e7bb44404830f9",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_init_9e2f6f3b73b44548afbec54455f5f40a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getMyPlan();"
+        }]
+    }
+}

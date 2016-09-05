@@ -1,0 +1,22 @@
+{
+    "AS_Label_5a2accfd58114d1fa0044ce88d12fca7": {
+        "id": "AS_Label_5a2accfd58114d1fa0044ce88d12fca7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_c7de811bf49040b98bbf408fddcfa536",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Do nothing\");"
+        }]
+    }
+}

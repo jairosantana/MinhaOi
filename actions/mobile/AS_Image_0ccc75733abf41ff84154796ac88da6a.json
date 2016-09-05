@@ -1,0 +1,12 @@
+{
+    "AS_Image_0ccc75733abf41ff84154796ac88da6a": {
+        "id": "AS_Image_0ccc75733abf41ff84154796ac88da6a",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchEnd_735d1252dbb64281820aa55c9990bb68",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "switch_on()"
+        }]
+    }
+}

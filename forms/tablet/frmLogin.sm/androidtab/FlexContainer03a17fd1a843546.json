@@ -1,0 +1,102 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizFlex",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "38.52%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30.93%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "CopyslFbox0d8bf4c2a2deb45",
+    "_top_": {
+        "type": "string",
+        "value": "33%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "38%"
+    },
+    "allboxes": [],
+    "annotationId": "573cc25d77484673a1a7d34efd5d309e",
+    "autogrowMode": 0,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer0ec01104a62ff45",
+        "Button08aa38c51bf0a4f1234"
+    ],
+    "clipBounds": true,
+    "clipbounds": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "enableScrolling": true,
+    "enabled": false,
+    "enablescrolling": true,
+    "height": {
+        "type": "string",
+        "value": "38.52%"
+    },
+    "id": "FlexContainer03a17fd1a843546",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "573cc25d77484673a1a7d34efd5d309e",
+    "layoutType": 2,
+    "layouttype": 2,
+    "left": {
+        "type": "string",
+        "value": "30.93%"
+    },
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "FlexContainer05685051397834d",
+    "percent": true,
+    "pf": "frmLogin",
+    "platforms": {},
+    "render": true,
+    "skin": "CopyslFbox0d8bf4c2a2deb45",
+    "snapGridSize": 10,
+    "snapToGrid": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "top": {
+        "type": "string",
+        "value": "33%"
+    },
+    "wType": "FlexContainer",
+    "widgetAlignment": 1,
+    "widgetalignment": 1,
+    "width": {
+        "type": "string",
+        "value": "38%"
+    },
+    "zIndex": 1,
+    "zindex": 1
+}

@@ -1,0 +1,105 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb672d0a12c1446abf0b1adb8f4a52fc",
+    "_text_": "21",
+    "_top_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.label.AndroidLabelProperty",
+        "_padding_": [
+            4,
+            0,
+            0,
+            0
+        ],
+        "padding": [
+            4,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "lblVoiceCall",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPadLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "0e241b45cc614f809dde221a8e1005e9",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flexOne",
+    "pf": "frmDashboard",
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAAndroidTabletLabelProperty",
+        "_padding_": [
+            0,
+            16,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            16,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAIPadLabelProperty",
+        "_padding_": [
+            0,
+            11,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            11,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 3
+}

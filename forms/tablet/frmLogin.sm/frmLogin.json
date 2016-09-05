@@ -1,0 +1,110 @@
+{
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc29934705f04f738dc57e8b04afb8ef",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.AndroidScrollFlexFormProperty",
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer05685051397834d"
+    ],
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "GalaxyTab10",
+    "displayorientation": 2,
+    "enabled": false,
+    "enabledforidletimeout": false,
+    "enablescrolling": false,
+    "id": "frmLogin",
+    "ide_postShow": "AS_Form_c9e5a6df545d4a9fb4cc51a13d83fd17",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.IPadScrollFlexFormProperty",
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 3,
+            "statusBarHidden": false,
+            "titleBarConfig": {
+                "buttonClosureLeftSideView": "",
+                "buttonClosureRightSideView": "",
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": false
+            }
+        },
+        "titleBar": false
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kuid": "083fe211462540bc8197b2e9a1da1e1a",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "orientation": 1,
+    "percent": true,
+    "platform": "ipad",
+    "postshow": "AS_Form_c9e5a6df545d4a9fb4cc51a13d83fd17",
+    "prevDevice": "GalaxyTab7",
+    "prevPlatform": "ipad",
+    "retainscrollposition": false,
+    "shellCSS": "and_Tab_Galaxy10",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAAndroidTabletScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAIPadScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAWindowsTabletScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "titleBarSkin": "s76ec66668224bb4af50929f1c11f655",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.Windows8ScrollFlexFormProperty",
+        "needAppMenu": false
+    }
+}

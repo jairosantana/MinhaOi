@@ -1,0 +1,53 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4d6b955337346828dd6fe4a1d5bc6b9",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "14%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "s5f9f40ba02d47e3bfdce17369fb1c1e",
+    "id": "btnHam",
+    "ide_onClick": "AS_Button_488d8333d0ae40e4b5719d8304bc40ad",
+    "ide_onTouchEnd": null,
+    "info": null,
+    "isvisible": true,
+    "kuid": "c465178b04de40908a6db42773ac613f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_488d8333d0ae40e4b5719d8304bc40ad",
+    "ontouchend": null,
+    "parent": "FlexContainerHeader",
+    "pf": "frmSelectPlan",
+    "wType": "Button",
+    "zindex": 5
+}

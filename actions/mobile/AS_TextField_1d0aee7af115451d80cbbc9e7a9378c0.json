@@ -1,0 +1,12 @@
+{
+    "AS_TextField_1d0aee7af115451d80cbbc9e7a9378c0": {
+        "id": "AS_TextField_1d0aee7af115451d80cbbc9e7a9378c0",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTextChange_26c048be4e544baa80a4c74eea41ed89",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onTextChangeRUT();"
+        }]
+    }
+}

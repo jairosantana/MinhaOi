@@ -1,0 +1,136 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Telefono",
+    "_skin_": "CopyslTextBox01196d1cd6c9548",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "19%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "annotationId": "3d0c858f5ba44707b0e8a4fbc5885f50",
+    "autoCapitalize": "none",
+    "autoComplete": false,
+    "autoCorrect": false,
+    "autoFilter": false,
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerHeight": "",
+    "containerHeightMode": 1,
+    "containerWeight": 100,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentAlignment": 7,
+    "contentalignment": 7,
+    "disabledSkins": {
+        "focusSkin": "CopyslTextBox08235ca7e2f9443"
+    },
+    "enabled": false,
+    "height": {
+        "type": "string",
+        "value": "100%"
+    },
+    "id": "txtPhone",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "keyBoardStyle": "A",
+    "keyboardActionLabel": 4,
+    "keyboardactionlabel": 4,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "4687c7d9c8c84822ad199197840b73f6",
+    "left": {
+        "type": "string",
+        "value": "2%"
+    },
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "maxTextLength": 8,
+    "maxtextlength": 8,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "FlexContainer03e0904244bde49",
+    "pf": "frmLogin",
+    "placeholder": "Telefono",
+    "placeholderSkin": "CopyslTextBox0e8ce510f001241",
+    "placeholderskin": "CopyslTextBox0e8ce510f001241",
+    "platforms": {
+        "android": {
+            "@class": "com.kony.gen.viz.model.component.property.textbox2.AndroidTextBox2Property",
+            "contentAlignment": 4
+        },
+        "ipad": {
+            "@class": "com.kony.gen.viz.model.component.property.textbox2.IPadTextBox2Property",
+            "placeholderSkin": "s3371767bdba4dd5a863ae11bf70889c",
+            "psp": {
+                "@class": "com.kony.gen.viz.model.component.psp.textbox2.IPadTextBox2PSP",
+                "keyboardActionLabel": 4,
+                "showClearButton": false
+            }
+        }
+    },
+    "render": true,
+    "secureTextEntry": false,
+    "securetextentry": false,
+    "showClearButton": false,
+    "showclearbutton": false,
+    "skin": "CopyslTextBox01196d1cd6c9548",
+    "text": "",
+    "textInputMode": "N",
+    "textinputmode": "N",
+    "top": {
+        "type": "string",
+        "value": "19%"
+    },
+    "viewType": "default",
+    "viewtype": "default",
+    "wType": "TextField",
+    "widgetAlignment": 5,
+    "width": {
+        "type": "string",
+        "value": "96%"
+    }
+}

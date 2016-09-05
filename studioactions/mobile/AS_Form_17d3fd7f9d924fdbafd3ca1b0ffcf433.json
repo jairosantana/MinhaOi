@@ -1,0 +1,12 @@
+{
+    "AS_Form_17d3fd7f9d924fdbafd3ca1b0ffcf433": {
+        "id": "AS_Form_17d3fd7f9d924fdbafd3ca1b0ffcf433",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_preShow_371367ed95c34b92bcdec2e98192d49e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDashboard.flexMain.left = \"0%\";\nfrmDashboard.flexMain.height = \"100%\"\nfrmDashboard.flexMain.width = \"100%\"\nfrmDashboard.imgDash.height = \"100%\"\nfrmDashboard.imgDash.width = \"100%\"\nfrmDashboard.imgDash.setVisibility(false)"
+        }]
+    }
+}

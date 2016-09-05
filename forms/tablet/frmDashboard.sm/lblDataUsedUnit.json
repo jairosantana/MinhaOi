@@ -1,0 +1,89 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6c1137302c24d2d985586cd2ad6ca84",
+    "_text_": "GB",
+    "_top_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "lblDataUsedUnit",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPadLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "32b2c33f4e6b4d57af17097a5b272eae",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flexThree",
+    "pf": "frmDashboard",
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAAndroidTabletLabelProperty",
+        "_padding_": [
+            0,
+            2,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            2,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAIPadLabelProperty",
+        "_padding_": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 3
+}

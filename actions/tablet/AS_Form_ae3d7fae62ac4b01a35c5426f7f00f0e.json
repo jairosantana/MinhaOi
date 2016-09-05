@@ -1,0 +1,12 @@
+{
+    "AS_Form_ae3d7fae62ac4b01a35c5426f7f00f0e": {
+        "id": "AS_Form_ae3d7fae62ac4b01a35c5426f7f00f0e",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onDeviceBack_4c052cfb78e64b4ab0f9fea696077ef7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onDeviceBackAndroid()"
+        }]
+    }
+}

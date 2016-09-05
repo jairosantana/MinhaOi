@@ -1,0 +1,12 @@
+{
+    "AS_FlexContainer_3dfae1ef822141dc9b3a44e0d1578b3a": {
+        "id": "AS_FlexContainer_3dfae1ef822141dc9b3a44e0d1578b3a",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_d282f49c20744f0296d064c5b8b5d6be",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onClickVoice()"
+        }]
+    }
+}

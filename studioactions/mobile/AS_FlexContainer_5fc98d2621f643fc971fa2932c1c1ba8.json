@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_5fc98d2621f643fc971fa2932c1c1ba8": {
+        "id": "AS_FlexContainer_5fc98d2621f643fc971fa2932c1c1ba8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___8396eca918a04c1cbaedb8a0245186c6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menuSelectPlan",
+            "display": "menuSelectPlan",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

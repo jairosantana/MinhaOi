@@ -1,0 +1,74 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "CPF ou usuario",
+    "_skin_": "s9afac45c4fe4a3db18df3492ae2f439",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "sea10f28f4ad4992a6be08249a2e67f0",
+    "id": "txtRUT",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.IPhoneTextBox2Property",
+        "placeholderSkin": "CopyslTextBox0de9a6774d8ae40",
+        "psp": {
+            "keyboardActionLabel": 4,
+            "showClearButton": false
+        }
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 4,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "02ce0aa2844641aeb38e867e056f254f",
+    "maxtextlength": 9,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "FlexContainer0ec01104a62ff45",
+    "pf": "frmLogin",
+    "placeholderskin": "s5f89ad6eeb64b1a943f12e34b9d833b",
+    "securetextentry": false,
+    "showclearbutton": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

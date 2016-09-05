@@ -1,0 +1,21 @@
+{
+    "AS_Button_488d8333d0ae40e4b5719d8304bc40ad": {
+        "id": "AS_Button_488d8333d0ae40e4b5719d8304bc40ad",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___17aa0d293a494b68ad20cda98272b476",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menuSelectPlan",
+            "display": "menuSelectPlan",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "applicableblockedUIWidget": "Link",
+    "background_color": "0000004c",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "font_color": "000000ff",
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "isDefaultSkin": false,
+    "kuid": "s1ca2735496b4e1b855baeacb8fb2118",
+    "wType": "Blocked UI"
+}

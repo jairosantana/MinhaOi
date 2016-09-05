@@ -1,0 +1,12 @@
+{
+    "AS_Button_af13839e36e249609eceafd2c2162c6a": {
+        "id": "AS_Button_af13839e36e249609eceafd2c2162c6a",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchEnd_00ae14fcd7404a0fbc2fd4bf4ecae1f7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "switch_on();"
+        }]
+    }
+}

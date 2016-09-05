@@ -1,0 +1,48 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9055eb2e7c645a8ae208ceadd22f618",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sc06bf00fce74d5f917832f230408918",
+    "id": "CopyButton05449b02cfe5a4a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "06a83613b753498cbfa22e12480453de",
+    "name": "kony.ui.Button",
+    "parent": "CopyFlexContainer0b97ce66abd594a",
+    "pf": "frmSelectPlan",
+    "wType": "Button"
+}

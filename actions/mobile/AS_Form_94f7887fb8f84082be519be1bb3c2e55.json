@@ -1,0 +1,35 @@
+{
+    "AS_Form_94f7887fb8f84082be519be1bb3c2e55": {
+        "id": "AS_Form_94f7887fb8f84082be519be1bb3c2e55",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "MOVE_ACTION____fc77bba820914add933e0b97b0bbf616",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmLogin",
+            "widgetId": "Image0c8d93bbbb8e44a",
+            "itemKUID": "da7a7ea66cea42aa976fdddd0bc32bbe",
+            "widgetKUID": "3d5f020305134735a44bd12c976a539c",
+            "animationObject": {
+                "centerX": "50%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "1000"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____fc77bba820914add933e0b97b0bbf616",
+            "displayAnimationId": "MOVE_ACTION____fc77bba820914add933e0b97b0bbf616",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

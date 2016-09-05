@@ -1,0 +1,12 @@
+{
+    "AS_Form_c9e5a6df545d4a9fb4cc51a13d83fd17": {
+        "id": "AS_Form_c9e5a6df545d4a9fb4cc51a13d83fd17",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_postShow_13cd0f1756504d698d8b571d68a18691",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "MobileInitMbaasEntel()"
+        }]
+    }
+}

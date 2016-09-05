@@ -1,0 +1,147 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "CopyslForm00e2a6d29cce248",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer05685051397834d"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentOffsetX": 0,
+    "contentOffsetY": 0,
+    "contentSizeHeight": 0,
+    "contentSizeWidth": 0,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "GalaxyTab7",
+    "displayOrientation": 2,
+    "displayorientation": 2,
+    "enableScrolling": false,
+    "enabled": false,
+    "enabledForIdleTimeout": false,
+    "enabledforidletimeout": false,
+    "enablescrolling": false,
+    "id": "frmLogin",
+    "ide_postShow": "AS_Form_82a78f1f428943b7913d6b573c049366",
+    "info": null,
+    "initdone": false,
+    "inputAccessoryViewType": 4,
+    "inputaccessoryviewtype": 4,
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "4aa3c2fc594044248576d2a60495bfd4",
+    "layoutType": 2,
+    "layouttype": 2,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Form2",
+    "needAppMenu": true,
+    "needappmenu": true,
+    "orientation": 1,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "percent": true,
+    "platform": "tabrcandroid",
+    "platforms": {
+        "android": {
+            "@class": "com.kony.gen.viz.model.container.property.scrollflexform.AndroidScrollFlexFormProperty",
+            "needAppMenu": false,
+            "onDeviceBack": "AS_Form_ae3d7fae62ac4b01a35c5426f7f00f0e",
+            "psp": {
+                "@class": "com.kony.gen.viz.model.container.psp.scrollflexform.AndroidScrollFlexFormPSP",
+                "windowSoftInputMode": 2
+            }
+        },
+        "ipad": {
+            "@class": "com.kony.gen.viz.model.container.property.scrollflexform.IPadScrollFlexFormProperty",
+            "needAppMenu": false,
+            "psp": {
+                "@class": "com.kony.gen.viz.model.container.psp.scrollflexform.IPadScrollFlexFormPSP",
+                "inputAccessoryViewType": 3,
+                "statusBarHidden": false,
+                "titleBarConfig": {
+                    "buttonText": "Edit",
+                    "leftButtonText": "Back",
+                    "leftTitle": "Back",
+                    "prevFormTitle": false,
+                    "renderTitleText": true,
+                    "rightTitle": "Edit",
+                    "titleBarLeftSideView": "button",
+                    "titleBarRightSideView": "button",
+                    "titleClosureLeftSideView": "",
+                    "titleClosureRightSideView": "",
+                    "visible": false
+                }
+            },
+            "titleBar": false
+        },
+        "spaandroidtablet": {
+            "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAAndroidTabletScrollFlexFormProperty",
+            "needAppMenu": false
+        },
+        "spaipad": {
+            "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAIPadScrollFlexFormProperty",
+            "needAppMenu": false
+        },
+        "spawindowstablet": {
+            "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAWindowsTabletScrollFlexFormProperty",
+            "needAppMenu": false
+        },
+        "windows8": {
+            "@class": "com.kony.gen.viz.model.container.property.scrollflexform.Windows8ScrollFlexFormProperty",
+            "needAppMenu": false
+        }
+    },
+    "postShow": "AS_Form_82a78f1f428943b7913d6b573c049366",
+    "postshow": "AS_Form_82a78f1f428943b7913d6b573c049366",
+    "prevDevice": "GalaxyTab7",
+    "prevPlatform": "tabrcandroid",
+    "render": true,
+    "retainScrollPosition": false,
+    "retainscrollposition": false,
+    "shellCSS": "and_Tab_Galaxy7",
+    "skin": "CopyslForm00e2a6d29cce248",
+    "snapGridSize": 10,
+    "snapToGrid": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "title": null,
+    "titleBar": true,
+    "titleBarSkin": "slTitleBar",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "widgetAlignment": 5
+}

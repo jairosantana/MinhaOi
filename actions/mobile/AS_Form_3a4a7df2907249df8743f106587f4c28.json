@@ -1,0 +1,12 @@
+{
+    "AS_Form_3a4a7df2907249df8743f106587f4c28": {
+        "id": "AS_Form_3a4a7df2907249df8743f106587f4c28",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_postShow_a90e5ddb60c84e1288d221a0633c423d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "timerAfterSplash()"
+        }]
+    }
+}

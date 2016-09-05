@@ -1,0 +1,117 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "7.05%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1491ef0c55d48849a02667091cf472e",
+    "_text_": "Plano atual",
+    "_top_": {
+        "type": "string",
+        "value": "83%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.label.AndroidLabelProperty",
+        "_padding_": [
+            33,
+            0,
+            0,
+            0
+        ],
+        "contentAlignment": 4,
+        "padding": [
+            33,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "lblPlanName",
+    "ide_onTouchEnd": "AS_Label_c045c84434294232ab37b0d1dfa68a6c",
+    "ide_onTouchMove": "AS_Label_aac50aa1b17c4cfd85880954e198c72f",
+    "ide_onTouchStart": "AS_Label_5a2accfd58114d1fa0044ce88d12fca7",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPhoneLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "13d76131ddf5406b8f431a31660fc6fa",
+    "name": "kony.ui.Label",
+    "ontouchend": "AS_Label_c045c84434294232ab37b0d1dfa68a6c",
+    "ontouchmove": "AS_Label_aac50aa1b17c4cfd85880954e198c72f",
+    "ontouchstart": "AS_Label_5a2accfd58114d1fa0044ce88d12fca7",
+    "paddinginpixel": false,
+    "parent": "flexMain",
+    "pf": "frmDashboard",
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAAndroidLabelProperty",
+        "_padding_": [
+            0,
+            4,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            4,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAIPhoneLabelProperty",
+        "_padding_": [
+            0,
+            3,
+            0,
+            0
+        ],
+        "padding": [
+            0,
+            3,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,12 @@
+{
+    "AS_Button_2c5e4bc778234080b3bbf8c5c3fbdce7": {
+        "id": "AS_Button_2c5e4bc778234080b3bbf8c5c3fbdce7",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_9059b9e7fec942c790f13758ac5c7fa4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getAllUsers()"
+        }]
+    }
+}

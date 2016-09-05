@@ -1,0 +1,12 @@
+{
+    "AS_Button_0f5bd99760044406b865e1b839225742": {
+        "id": "AS_Button_0f5bd99760044406b865e1b839225742",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_23bf8a112b73459bae14a5876ebef4c7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "hamburger()"
+        }]
+    }
+}

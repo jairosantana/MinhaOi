@@ -1,0 +1,51 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc95aa34998842c1ad08bd798869362f",
+    "_text_": "UPGRADE PLAN",
+    "_top_": {
+        "type": "string",
+        "value": "91%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45.60%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "scff36e84afd4931af39b4bea458b152",
+    "id": "Button08aa38c51bf0a4f",
+    "ide_onClick": "AS_Button_dbeba51da8a2472fb161a31e3c8ded39",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b1620cd0b48745168b6becbf3f57db4e",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_dbeba51da8a2472fb161a31e3c8ded39",
+    "parent": "flexMain",
+    "pf": "frmDashboard",
+    "wType": "Button",
+    "zindex": 1
+}

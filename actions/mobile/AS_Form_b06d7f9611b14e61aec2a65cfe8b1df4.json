@@ -1,0 +1,12 @@
+{
+    "AS_Form_b06d7f9611b14e61aec2a65cfe8b1df4": {
+        "id": "AS_Form_b06d7f9611b14e61aec2a65cfe8b1df4",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onHide_428c21f1b6194472a2aebc6737297ee1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSelectPlan.destroy()"
+        }]
+    }
+}

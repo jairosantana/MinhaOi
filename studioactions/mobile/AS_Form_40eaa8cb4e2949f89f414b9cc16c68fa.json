@@ -1,0 +1,12 @@
+{
+    "AS_Form_40eaa8cb4e2949f89f414b9cc16c68fa": {
+        "id": "AS_Form_40eaa8cb4e2949f89f414b9cc16c68fa",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_postShow_7c1d41d155094aa3aa526d75278dce09",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "flag = 0"
+        }]
+    }
+}

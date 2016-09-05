@@ -1,0 +1,12 @@
+{
+    "AS_Form_7885f3cfcd704b8097d96ff90f72ec6b": {
+        "id": "AS_Form_7885f3cfcd704b8097d96ff90f72ec6b",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_preShow_ce5075258d5b42b0a24733ad005a0c2f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSelectPlan.flexMain.left = \"0%\";\nfrmSelectPlan.flexMain.height = \"100%\"\nfrmSelectPlan.flexMain.width = \"100%\"\nfrmSelectPlan.imgDash.height = \"100%\"\nfrmSelectPlan.imgDash.width = \"100%\"\nfrmSelectPlan.imgDash.setVisibility(false)"
+        }]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "AS_Form_886ac4de700d4da3851e38de2b440204": {
+        "id": "AS_Form_886ac4de700d4da3851e38de2b440204",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onDeviceBack_eb42bfbe639848088415ddf4ad2ed332",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onDeviceBackAndroid()"
+        }]
+    }
+}

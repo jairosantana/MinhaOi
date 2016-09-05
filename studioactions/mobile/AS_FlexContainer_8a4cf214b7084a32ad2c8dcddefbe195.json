@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_8a4cf214b7084a32ad2c8dcddefbe195": {
+        "id": "AS_FlexContainer_8a4cf214b7084a32ad2c8dcddefbe195",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectPlan",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9cb876a3f604423b90064edc3acc8301"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2e9cb33c2beb45da86e032e1e25f1b90",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menuSelectPlan",
+            "display": "menuSelectPlan",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}
